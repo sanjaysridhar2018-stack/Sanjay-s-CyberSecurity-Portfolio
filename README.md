@@ -22,5 +22,4 @@ I am a recent graduate with a profound interest in problem solving and technolog
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
-## Certifications
 
