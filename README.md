@@ -21,7 +21,4 @@ Coming to tools, I have mastered Burp suite and its always a part of my pentest.
 
 
 
-|
-
-
 
